@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi, I'm Vighnesh</h1>
 
 <h3 align="center">
@@ -95,4 +94,3 @@ A MySQL-based application for managing employee records, attendance, salaries, b
 <p align="center">
   Always learning, building, and exploring new technologies.
 </p>
-```
